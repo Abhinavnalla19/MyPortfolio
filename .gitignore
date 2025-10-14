@@ -1,0 +1,13 @@
+# Firebase
+apphosting.yaml
+firebase.json
+.firebase/
+firebase-debug.log
+
+# Dependencies
+/node_modules
+
+# Misc
+.DS_Store
+*.pem
+.idx/
