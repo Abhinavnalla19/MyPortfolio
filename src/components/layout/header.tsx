@@ -52,7 +52,7 @@ export default function Header() {
       <div className="container mx-auto flex h-20 max-w-7xl items-center justify-between px-4">
         <a href="#" className="flex items-center gap-2 text-xl font-bold transition-colors hover:text-primary">
           <Code className="h-6 w-6 text-primary" />
-          <span>Abhinav Nalla</span>
+          <span>Abhinav Kumar Nalla</span>
         </a>
 
         <div className="hidden md:flex">

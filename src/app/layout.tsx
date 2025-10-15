@@ -4,10 +4,10 @@ import { Toaster } from '@/components/ui/toaster';
 import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
-  title: 'Abhinav Nalla | Portfolio',
+  title: 'Abhinav Kumar Nalla | Portfolio',
   description:
-    'Portfolio of Abhinav Nalla, a Computer Science Engineering student specializing in Machine Learning and DSA.',
-  keywords: ['Abhinav Nalla', 'Portfolio', 'Machine Learning', 'DSA', 'Developer', 'Computer Science'],
+    'Portfolio of Abhinav Kumar Nalla, a Computer Science Engineering student specializing in Machine Learning and DSA.',
+  keywords: ['Abhinav Kumar Nalla', 'Portfolio', 'Machine Learning', 'DSA', 'Developer', 'Computer Science'],
 };
 
 export default function RootLayout({

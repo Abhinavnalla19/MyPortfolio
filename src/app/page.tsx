@@ -35,7 +35,7 @@ export default function Home() {
       </main>
       <footer className="w-full bg-background py-6">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Abhinav Nalla. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Abhinav Kumar Nalla. All Rights Reserved.</p>
         </div>
       </footer>
     </div>

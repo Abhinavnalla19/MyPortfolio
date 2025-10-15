@@ -537,7 +537,7 @@ __turbopack_context__.n(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$c
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v(JSON.parse("{\"profile\":{\"src\":\"/profile.JPG\",\"width\":400,\"height\":400,\"alt\":\"Abhinav Nalla\",\"hint\":\"profile picture\"}}"));}}),
+__turbopack_context__.v(JSON.parse("{\"profile\":{\"src\":\"/profile.JPG\",\"width\":400,\"height\":400,\"alt\":\"Abhinav Kumar Nalla\",\"hint\":\"profile picture\"}}"));}}),
 "[project]/src/lib/utils.ts [app-rsc] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -832,7 +832,7 @@ function AboutSection() {
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text-sm text-muted-foreground",
-                                                            children: "Graduation expected in 2025"
+                                                            children: "Graduation expected in 2027"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/about.tsx",
                                                             lineNumber: 55,
@@ -2016,7 +2016,7 @@ function Home() {
                         children: [
                             "© ",
                             new Date().getFullYear(),
-                            " Abhinav Nalla. All Rights Reserved."
+                            " Abhinav Kumar Nalla. All Rights Reserved."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/page.tsx",

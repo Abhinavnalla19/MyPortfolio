@@ -52,7 +52,7 @@ export default function AboutSection() {
                 </div>
                 <div>
                   <p className="font-semibold">CGPA: 8.1 / 10.0</p>
-                  <p className="text-sm text-muted-foreground">Graduation expected in 2025</p>
+                  <p className="text-sm text-muted-foreground">Graduation expected in 2027</p>
                 </div>
               </CardContent>
             </InteractiveCard>

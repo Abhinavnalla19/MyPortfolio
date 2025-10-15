@@ -55,10 +55,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$vercel$2f$
 ;
 ;
 const metadata = {
-    title: 'Abhinav Nalla | Portfolio',
-    description: 'Portfolio of Abhinav Nalla, a Computer Science Engineering student specializing in Machine Learning and DSA.',
+    title: 'Abhinav Kumar Nalla | Portfolio',
+    description: 'Portfolio of Abhinav Kumar Nalla, a Computer Science Engineering student specializing in Machine Learning and DSA.',
     keywords: [
-        'Abhinav Nalla',
+        'Abhinav Kumar Nalla',
         'Portfolio',
         'Machine Learning',
         'DSA',

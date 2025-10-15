@@ -51,7 +51,7 @@ export default function HeroSection() {
       </div>
       <div className="container relative z-10 mx-auto max-w-7xl px-4">
         <h1 className="text-4xl font-bold tracking-tighter sm:text-6xl md:text-7xl lg:text-8xl bg-clip-text text-transparent bg-gradient-to-b from-primary to-primary/70">
-          Abhinav Nalla
+          Abhinav Kumar Nalla
         </h1>
         <p className="mx-auto mt-6 max-w-[700px] text-lg text-primary md:text-xl font-headline">
           Software Developer & AI Enthusiast
