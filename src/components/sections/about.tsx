@@ -65,7 +65,7 @@ export default function AboutSection() {
               </CardHeader>
               <CardContent>
                 <ul className="list-disc list-inside space-y-2 text-muted-foreground">
-                  <li>Solved 700+ DSA problems on LeetCode</li>
+                  <li>Focused on solving DSA problems on LeetCode to identify patterns and improve problem-solving skills.</li>
                   <li>Mathematics Mentor</li>
                 </ul>
               </CardContent>
